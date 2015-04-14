@@ -8,12 +8,14 @@ Movie Trailer Website
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Python (<3) is required. If you have Linux or Mac you should be good to go, if you're on Windows install it in super easy way here: http://ninite.com
+* Clone the repository or simply download it as a zip file and expand it on your pc
+* If needed, modify "entertainment_center.py" file inserting your favourite movies data
+* Run "entertainment_center.py" using Python
+* Sit
+* Kick off your shoes
+* Grab a cold one
+* Relax
 
 ### Contribution guidelines ###
 
