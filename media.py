@@ -9,6 +9,7 @@ __license__ = "GNU GPL 3.0"
 
 import webbrowser
 
+
 class Video():
     """ Parent class """
 
@@ -28,6 +29,9 @@ class Movie(Video):
         self.trailer_youtube_url = trailer_youtube
 
     def show_trailer(self):
+        """
+        Opens a trailer
+        """
         webbrowser.open(self.trailer_youtube_url)
 
 
@@ -35,8 +39,4 @@ class TvShow(Movie):
     """ Movie's child class containing a TvShow variables and methods """
 
     def __init__(self, title, duration, storyline, poster_image, trailer_youtube):
-        Video.__init__(self, title, duration)
         Movie.__init__(self, title, duration, storyline, poster_image, trailer_youtube)
-
-    def show_trailer(self):
-        webbrowser.open(self.trailer_youtube_url)

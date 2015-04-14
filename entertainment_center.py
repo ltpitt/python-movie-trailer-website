@@ -20,7 +20,7 @@ THE_MATRIX = media.Movie("The Matrix",
 THE_SOCIAL_NETWORK = media.Movie("The Social Network",
                                  "121 minutes",
                                  "Programming is coolest thing out there",
-                                 "http://upload.wikimedia.org/wikipedia/en/7/7a/Social_network_film_poster.jpg",
+                                 "http://bit.ly/1DDuWL8",
                                  "https://www.youtube.com/watch?v=lB95KLmpLR4")
 
 TRON_LEGACY = media.Movie("Tron Legacy",
@@ -29,6 +29,6 @@ TRON_LEGACY = media.Movie("Tron Legacy",
                           "http://upload.wikimedia.org/wikipedia/en/c/c2/Tron_Legacy_poster.jpg",
                           "https://www.youtube.com/watch?v=L9szn1QQfas")
 
-movies = [THE_MATRIX, THE_SOCIAL_NETWORK, TRON_LEGACY]
+MOVIES = [THE_MATRIX, THE_SOCIAL_NETWORK, TRON_LEGACY]
 
-fresh_tomatoes.open_movies_page(movies)
+fresh_tomatoes.open_movies_page(MOVIES)
