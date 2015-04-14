@@ -9,7 +9,6 @@ __license__ = "GNU GPL 3.0"
 
 import webbrowser
 
-
 class Video():
     """ Parent class """
 
