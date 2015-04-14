@@ -1,12 +1,10 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Movie Trailer Website
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Movie Trailer Website is a Python script that allows you to build a webpage containing all your favourite movies. Clicking on a movie you'll be able to see its trailer too!
 
 ### How do I get set up? ###
 
@@ -19,11 +17,8 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+* If you have any idea or suggestion contact directly the Repo Owner
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* ltpitt -> Repo Owner
