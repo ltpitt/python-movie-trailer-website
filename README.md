@@ -21,4 +21,4 @@ Movie Trailer Website
 
 ### Who do I talk to? ###
 
-* ltpitt -> Repo Owner
+* ltpitt: Repo Owner
