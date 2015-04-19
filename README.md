@@ -4,7 +4,9 @@ Trailer Website
 
 ### What is this repository for? ###
 
-* Trailer Website is a Python script that allows you to build a webpage containing all your favourite movies and tv shows. Clicking on a movie you'll be able to see its trailer too! It is already filled with a very nerdy selection.
+Trailer Website is a Python script that allows you to build a webpage containing all your favourite movies and tv shows.
+Clicking on a movie you'll be able to see its trailer too!
+It is already filled with a very nerdy selection.
 
 ### How do I get set up? ###
 
